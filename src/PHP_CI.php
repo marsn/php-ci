@@ -19,7 +19,7 @@ class PHP_CI {
      * @return $a + $b
      */
     public static function sum($a, $b) {
-        return $a + 1;
+        return $a + $b;
     }
 
     /**
